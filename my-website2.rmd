@@ -1,0 +1,13 @@
+---
+title: "Hey it's Xin (Sinny)"
+subtitle: "Columbia University Master of Science Biostatistics Student"
+---
+I lived in L.A. Now I moved to New York!
+<img src="images/image.jpg" style="width:75%">\
+
+I am a psychological researcher & tech developer passionate about the crossover of technology, people and entrepreneurship. Currently, I am taking this semester as a full-time Columbia student, studying Biostatistics. I really enjoy taking Data Science this semester.
+Doing variety of sports and hanging out are my favorite ways of connecting with people. As a people person who is passionate about the crossover of technology, science, art and sports, I hope to create those like-wise meaningful experiences for others through implementation that I am good at! Seeing strangers getting connected is always the most rewarding to me :)
+
+
+
+See the icons on the top of the page for contact info and drop me a line at my email.
