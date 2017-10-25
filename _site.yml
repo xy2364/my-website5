@@ -1,0 +1,26 @@
+name: "Xin Yin"
+navbar:
+  title: "Xin Yin"
+  left:
+    - text: "Resume"
+      icon: fa-file  fa-2x
+      href: Xin-Yin-copy3.pdf
+
+    
+  right:
+    - icon: fa-github fa-2x
+      href: https://github.com/xy2364
+      
+    - icon: fa-envelope fa-lg
+      href: mailto:<xy2364@columbia.edu>
+      
+    - icon: fa-linkedin fa-2x
+      href: https://www.linkedin.com/in/xin-yin-460719116/
+output:
+  html_document:
+    css: style.css
+    theme: paper
+    highlight: textmate
+    include:
+        after_body: footer.html
+exclude: ["*.csv", "*.bib","*.sh","*.R"] 
